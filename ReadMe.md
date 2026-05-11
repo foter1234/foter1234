@@ -1,5 +1,5 @@
 # Sobre mim:
-Sou desenvolvedor com foco em aplicações web modernas, utilizando tecnologias como JavaScript, Node.js e Supabase.<br><br>Atualmente trabalho criando sistemas personalizados e soluções digitais para empresas, incluindo:<br>- Sistemas de gestão<br>- APIs escaláveis<br>- Automação de processos<br>- Sites profissionais<br><br>Também sou co-fundador da Teora Solutions, onde ajudamos negócios a crescer através de tecnologia, tráfego pago e presença digital.
+Sou desenvolvedor com foco em aplicações web modernas, utilizando tecnologias como JavaScript, Node.js e Supabase.<br><br>Atualmente trabalho criando sistemas personalizados , incluindo:<br>- Sistemas de gestão<br>- APIs escaláveis<br>- Automação de processos<br>- Sites profissionais<br><br>Também sou co-fundador da Teora Solutions, onde ajudamos negócios a crescer através de tecnologia, tráfego pago e presença digital.
 
 
 ## 🌐 Socials:
